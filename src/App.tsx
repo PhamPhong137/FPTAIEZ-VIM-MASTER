@@ -156,7 +156,7 @@ const App: React.FC = () => {
              <div className="bg-gradient-to-br from-blue-500 to-blue-600 p-1.5 rounded-lg shadow-lg">
                 <Keyboard className="text-white" size={18} />
              </div>
-             <h1 className="text-lg font-semibold tracking-tight">LEARN <span className="text-gray-500">VIM_MASTER</span></h1>
+             <h1 className="text-lg font-semibold tracking-tight">FPTAIEZ VIM</h1>
          </div>
          
          <div className="flex-1 max-w-xl mx-12 hidden md:block">
